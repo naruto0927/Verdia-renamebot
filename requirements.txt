@@ -1,0 +1,13 @@
+TgCrypto
+motor
+dnspython
+hachoir
+Pillow
+aiohttp
+aiofiles
+pytz
+Flask
+gunicorn
+pyrogram
+pymediainfo
+telegraph
